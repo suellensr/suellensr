@@ -20,5 +20,14 @@ Meu projeto de treinamento **[Supplier Registration System](https://github.com/s
 ---
 
 ### Vamos nos Conectar!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suellenseiberlick/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: suellensreis@gmail.com)
+<p align="left">
+<a href = "https://www.linkedin.com/in/suellenseiberlick/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto: suellensreis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
+## GitHub Stats
+<div align="center" display="flex">
+  <a href="https://github.com/suellensr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suellensr&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suellensr&layout=compact&langs_count=7&theme=bear"/>
+</div>
